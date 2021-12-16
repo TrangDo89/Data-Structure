@@ -1,4 +1,3 @@
-
 #Find the trend change points of the array.
 # The following "read" function reads values from a file named "inputHW1.txt" and returns the values in an array.
 
