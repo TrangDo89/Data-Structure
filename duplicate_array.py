@@ -1,5 +1,3 @@
-# Name: Trang Do U26667617
-
 def read():
     file = open("hw3-ExtraCredit.txt", "r")
     line = file.readline()
