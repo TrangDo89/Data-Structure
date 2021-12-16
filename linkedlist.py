@@ -1,14 +1,3 @@
-#Group 31: Trang Do - U26667617, Arianna Loucks - U69700489
-"""
-File: a5.py
-Assignment 5
-
-Define a length function.
-Define a printStructure function.
-Define an insert function.
-Test the above functions and the Node class.
-"""
-
 from node import Node
 
 
