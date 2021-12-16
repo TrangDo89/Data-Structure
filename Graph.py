@@ -1,4 +1,3 @@
-
 def readm():
     file = open("adjMat.txt", "r")
     lines = file.readlines()
